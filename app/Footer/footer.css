@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: #ded4e5;
+    text-align: center;
+    color: #e03d31;
+    border-top-color: #e03d31;
+    border-top-style: solid;
+    border-top-width: thin;
+    padding: 10px 0;
+    align-items: center;
+}

@@ -1,0 +1,19 @@
+.connect{
+    display: flex;
+    justify-content: center;
+    background-color: #ded4e5;
+}
+
+.connect-class{
+    color: #E03D31;
+    padding: 30px 0;;
+}
+
+.connect-class h1{
+    font-size: 75px;
+}
+
+.connect-class p{
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+}

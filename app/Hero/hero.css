@@ -1,0 +1,80 @@
+
+.hero{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-image: url('../assets/sky.jpg');
+    text-align: center;
+    padding: 50px;
+    color: #e03d31;
+}
+
+.hero h3{
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.hero h1{
+    font-size: 100px;
+}
+
+.hero p{
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.hero button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #e03d31;
+    border: none;
+    color: #D9E1F0;
+    border-radius: 25px;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.bear-icon-1{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    rotate: -25deg;
+}
+.bear-icon-2{
+    position: absolute;
+    top: 350px;
+    right: 300px;
+    rotate: z -25deg;
+}
+
+.bear-icon-3{
+    position: absolute;
+    top: 600px;
+    left: 100px;
+    rotate: -15deg;
+}
+
+
+.bear-icon-5{
+    position: absolute;
+    left:300px;
+    top: 350px;
+    rotate: 10deg;
+}
+
+.bear-icon-6{
+    position: absolute;
+    right: 100px;
+    rotate: 25deg;
+}
+
+.bear-icon-7{
+    position: absolute;
+    right: 200px;
+    top: 700px;
+    rotate: 22deg;
+}
+
