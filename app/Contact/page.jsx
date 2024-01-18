@@ -15,7 +15,7 @@ const Contact = () => {
             alt='connect-img'/>
         </div>
         <div class='connect-class'>
-            <h1>Let's Connect!</h1>
+            <h1>Let&apos;s Connect!</h1>
             <p>@super.gummies.com</p>
             <p>www.supergummies.com</p>
         </div>

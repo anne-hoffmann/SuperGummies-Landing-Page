@@ -30,7 +30,7 @@ const Hero = () => {
         <div>
             <h3>Introducing:</h3>
             <h1>Super<br/>Gummies</h1>
-            <p>They're fruit snacks, for adults.</p>
+            <p>They&apos;re fruit snacks, for adults.</p>
             <button>Explore</button>
         </div>
         <div>
